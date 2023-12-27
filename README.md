@@ -10,6 +10,8 @@ To run the code run in your terminal
   ts-node Part1.ts
 ```
 
+<h2> <a href="./Question5/Day 15 - Advent of Code 2023.pdf" target="_blank">Output </a> </h2>
+
 ## Question 6
 
 To run the code run in your terminal
@@ -21,6 +23,4 @@ To run the code run in your terminal
   ts-node Part2.ts
 ```
 
-## Output
-
-<a href="./Question6/Day 14 - Advent of Code 2023.pdf" target="_blank">Question 6 </a>
+<h2> <a href="./Question6/Day 14 - Advent of Code 2023.pdf" target="_blank">Output </a> </h2>
